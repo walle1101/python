@@ -1,2 +1,2 @@
 # python
-gx test
+test
